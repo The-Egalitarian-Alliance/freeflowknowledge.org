@@ -1,54 +1,64 @@
-# Free Flow Knowledge - Free, Open Access Learning
+# Free Flow Knowledge – Free, Open Educational Resources
 
-Welcome to Free Flow Knowleedge, a platform dedicated to providing free, unbiased, and openly accessible educational materials for learners of all levels!
+Welcome to **Free Flow Knowledge**, a platform dedicated to providing free, unbiased, and openly accessible educational materials for learners of all levels.
 
----
+## 🌍 Our Mission
 
-**Our Mission:**
+To make education and knowledge available to everyone, equally, by offering a curated collection of high-quality learning resources, eliminating barriers to knowledge, and fostering a love of learning.
 
-To democratize education by offering a curated collection of high-quality learning resources, eliminating barriers to knowledge and fostering a love of learning.
+## 📚 What You'll Find Here
 
----
+- **Course Materials** – Lecture notes, syllabi, assignments, and readings from a wide range of subjects.
+- **Practice Questions & Assessments** – Quizzes and exams to test your understanding.
+- **Interactive Simulations** – Engage with dynamic, hands-on learning experiences (where available).
+- **Videos & Tutorials** – Instructional videos covering diverse topics.
+- **Open Educational Resources (OER)** – Curated materials released under open licenses.
 
-**What You'll Find Here:**
+## ✅ Our Commitment to Quality & Unbiased Content
 
-* **Course Materials:**  Lecture notes, syllabi, assignments, and readings from various subjects.
-* **Practice Questions & Assessments:** Quizzes and exams to test your understanding.
-* **Interactive Simulations:** Engage with subjects through dynamic learning experiences (where available).
-* **Videos & Tutorials:**  Instructional videos covering diverse topics.
-* **Open Educational Resources (OER):**  We actively seek and curate materials released under open licenses.
+- **Unbiased** – We aim to present information objectively, sourcing and reflecting multiple perspectives.
+- **Community Moderated** – Feedback-driven quality control to flag errors or bias.
+- **Audited** – Periodic review of materials for accuracy and relevance.
 
----
+## 🤝 How to Contribute
 
-**Commitment to Quality & Bias:**
+We welcome community involvement!
 
-* **Unbiased Content:** We are committed to presenting information objectively, sourcing from multiple perspectives where appropriate.
-* **Community Moderation:**  We rely on community feedback to flag potential biases and ensure content quality.
-* **Regular Audits:** We will periodically review content for accuracy and relevance.
+- **Contribute Code** - Help us build and maintain the software driving Free Flow Knowledge.
+- **Submit Materials** – Share your high-quality Open Education Resources.
+- **Report Issues** – Flag errors, outdated info, or bias.
+- **Volunteer** – Help with moderation, content review, or site maintenance.
 
----
-
-**How to Contribute:**
-
-We welcome your involvement!  You can:
-
-* **Submit Materials:**  If you have high-quality OER, please [submit it here](link_to_submission_form).
-* **Report Issues:**  Found an error or bias? Let us know [here](link_to_reporting_form).
-* **Become a Volunteer:**  Help with moderation, content review, website maintenance - [contact us](link_to_contact_form).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
-**License:**
+## 📬 Contact
 
-<a href="https://creativecommons.org">Open Education</a> © 2025 by <a href="https://github.com/JEleniel">JEleniel</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="">
+- **Email:** [jeleniel@crystultima.org](mailto:jeleniel@crystultima.org)
+- **Website:** [freeflowknowledge.org](https://freeflowknowledge.org)
 
----
+## Neutrality
 
-**Contact Us:**
+Free Flow Knowledge is committed to remaining neutral and independent.
 
-[Email Address](email_address)
-[Website](website_url)
+- We do **not** support, promote, or endorse any political party, nation, corporation, ideology, or organization.
+- Our sole purpose is to provide open, unbiased educational resources to learners everywhere.
+- Where multiple perspectives exist on a subject, we strive to present them fairly, without favoritism.
+- Contributions must remain educational and objective, free from advocacy or promotion.
 
----
+This principle of neutrality safeguards our mission of open access to knowledge for all.
 
-**Thank you for joining the Open Education community!**
+## [Legal](LICENSE.md)
+
+### Software
+
+The software hosting [Free Flow Knowledge](https://freeflowknowledge.org/), including in this repository, is Copyright © 2025 crystultima.org c/o [JEleniel](https://github.com/JEleniel) and is licensed under the [MIT License](LICENSE.md).
+
+### Content, Educational Material, and Media
+
+The content, materials, and media hosted by [Free Flow Knowledge](https://freeflowknowledge.org/) is Copyright © 2025 crystultima.org c/o [JEleniel](https://github.com/JEleniel) and is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md) license.&nbsp;
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="width:1.5rem;" alt="Creative Commons logo" />&nbsp;
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="width:1.4rem;" alt="Creative Commons Attribution logo" />&nbsp;
+<img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="width:1.5rem;" alt="Creative Commons Non-Commercial logo" />&nbsp;
+<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="width:1.5rem;" alt="Creative Commons Share Alike logo" />
